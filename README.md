@@ -9,6 +9,3 @@ Skills: VUE JS / TYPESCRIPT / IONIC FRAMEWORK / HTML5 / SASS
 - 📫 How to reach me: vladfrontender@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vladdic)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/vladislav-podlesnoy-778070221//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](vladfrontender@gmail.com)  
-
-![image](https://github.com/vladdic/vladdic/assets/113549169/cd3bd06b-9186-4889-a964-13c0815d7c74)
